@@ -1,0 +1,4 @@
+# enviroments
+.env 
+mysql_container
+venv
